@@ -19,3 +19,6 @@ To run this project, you need Python installed along with the following librarie
 You can install them via pip:
 ```bash
 pip install numpy matplotlib
+### Results
+![Sphere Curve](MFO_Sphere_Convergence.png)
+![Rastrigin Curve](MFO_Rastrigin_Convergence.png)
